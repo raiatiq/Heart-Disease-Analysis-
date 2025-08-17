@@ -40,5 +40,5 @@ Males and older age groups fall into the high-risk category, requiring closer mo
 
 Data-driven healthcare insights can help in early detection and better treatment planning
 
-#Dashboard
+##Dashboard
 <img width="905" height="508" alt="Heart Disease PowerBi Dashboard" src="https://github.com/user-attachments/assets/8aa65c2d-8bfb-4586-b3cf-76d0f353a6ac" />
